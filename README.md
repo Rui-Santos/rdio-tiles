@@ -1,1 +1,1 @@
-Some fun with Rdio's JavaScript api. See it in action (right here)[http://www.number61.net/about/].
+Some fun with Rdio's JavaScript api. See it in action here: http://www.number61.net/about/.
